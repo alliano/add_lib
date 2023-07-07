@@ -22,9 +22,9 @@ Untuk menambahkan liberary, tentunya kita harus memiliki liberary yang kita kan 
 Untuk menambahkan Liberary pada java project, pindahkan jar file(liberary yang inign digunakan) pada folder lib pada project java teman-teman.  
 ![pindahkan_ke_lib](https://github.com/alliano/add_lib/blob/master/imgs/pindahkan_ke_lib.jpg)  
 Setelah itu klik Java Project pada Sidebar Visual Studio Code.  
-![java_project](https://github.com/alliano/add_lib/blob/master/imgs/klik_java_project.jpg)
+![java_project](https://github.com/alliano/add_lib/blob/master/imgs/klik_java_project.jpg)  
 Klik kanan JRE System Liberary.  
-![JRE_System_lib](https://github.com/alliano/add_lib/blob/master/imgs/JRE_system_liberary.jpg)
+![JRE_System_lib](https://github.com/alliano/add_lib/blob/master/imgs/JRE_system_liberary.jpg)  
 Pilih Reveal in Exploler.  
 Setelah itu arahkan pada folder lib yang ada pada project, dan klik Jar file yang akan digunakan.  
 Dalam kasus ini saya ingin menggunakan liberary mysql connector.  
